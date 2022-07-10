@@ -46,7 +46,7 @@ TextView txt;
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.d("AAA","chạy vào onDestroy ");
+        Log.d("AAA","chạy vào onDestroy 1212121");
     }
 
     @Override
