@@ -34,7 +34,7 @@ TextView txt;
     @Override
     protected void onStart() {
         super.onStart();
-        Log.d("AAA","chạy vào onStart ");
+        Log.d("AAA","chạy vào onStart 1");
     }
 
     @Override
