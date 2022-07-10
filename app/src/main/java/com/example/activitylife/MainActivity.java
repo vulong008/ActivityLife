@@ -58,6 +58,6 @@ TextView txt;
     @Override
     protected void onResume() {
         super.onResume();
-        Log.d("AAA","chạy vào onResume ");
+        Log.d("AAA","chạy vào onRe00sume ");
     }
 }
