@@ -28,7 +28,7 @@ TextView txt;
     @Override
     protected void onRestart() {
         super.onRestart();
-        Log.d("AAA","chạy vào onRestart ");
+        Log.d("AAA","chạy vào onRestart 1");
     }
 
     @Override
